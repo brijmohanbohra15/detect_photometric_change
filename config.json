@@ -1,0 +1,12 @@
+{
+  "data": {
+    "raw_path": "/Users/brijmohan/Desktop/Area/era1",
+    "output_path": "/Users/brijmohan/Desktop/Area/processed/era1_new3"
+  },
+  "dates": {
+    "Reference_Start": "2025-10-28 20:21:50",
+    "Reference_End": "2025-11-04 20:21:50",
+    "Current_Start": "2025-11-04 20:21:50",
+    "Current_End": "2025-11-05 02:21:50"
+  }
+}
